@@ -30,7 +30,7 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - MS SQL Server 2012+ or Oracle 10g+ databases
 - IIS Web Server feature
 - .NET Framework 4.6.1
-- Node.js v8
+- [Node.js v8.11.3](https://nodejs.org/en/blog/release/v8.11.3/)
 
 ### Packages
 
@@ -50,15 +50,14 @@ Upgrade pack for existing WorkflowGen server apps. Refer to the [upgrade guide](
 
 Check out the WorkflowGen documentation and become your company's process automation expert.
 
-
 ### [Forum & Knowledge Base](https://discuss.workflowgen.com/)
 
 Join the community to learn about and share your experiences with WorkflowGen.
 
+### Docker
+
+WorkflowGen is also available in Docker. See our container image at [advantys/workflowgen-express](https://hub.docker.com/r/advantys/workflowgen-express/)
+
 ### Licenses
-
-WorkflowGen is available with the Free (Docker container), Trial or Commercial licenses.
-
-For Docker, see our container image at [advantys/workflowgen-express](https://hub.docker.com/r/advantys/workflowgen-express/)
 
 For the Trial and Commercial licenses, please [contact us](https://www.workflowgen.com/en/contact/).
