@@ -30,7 +30,7 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - MS SQL Server 2012+ or Oracle 10g+ databases
 - IIS Web Server feature
 - .NET Framework 4.6.1
-- [Node.js v8.11.3](https://nodejs.org/en/blog/release/v8.11.3/)
+- [Node.js v10.15.3](https://nodejs.org/en/blog/release/v10.15.3/)
 
 ### Packages
 
