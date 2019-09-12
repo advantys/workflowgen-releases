@@ -20,14 +20,14 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - GraphQL and Incoming Webhooks Node.js-based API
 - .NET SOAP Web Services API
 - Microsoft Azure integration
-- OpenID Connect authentication with Azure AD, AD FS, Auth0 and Okta
+- OpenID Connect authentication with Azure AD, AD FS 2016, Auth0, Okta and Microsoft identity platform (v2.0)
 
 ## Getting Started
 
 ### Requirements
 
-- Windows 10 or Windows Server 2012+
-- MS SQL Server 2012+ or Oracle 10g+ databases
+- Windows 10 Pro or Windows Server 2012 or later
+- MS SQL Server 2012 or later
 - IIS Web Server feature
 - .NET Framework 4.6.1
 - [Node.js v10.15.3](https://nodejs.org/en/blog/release/v10.15.3/)
@@ -36,17 +36,17 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 
 #### powershell-setup-x.x.x.zip
 
-Full installation of the WorklowGen server app using a PowerShell script. Refer to the included README.md or the [technical guide](https://advantys.gitbooks.io/workflowgen-technical-reference-guide/content/setup.html#workflowgen-setup-powershell) for instructions.
+Full installation of the WorklowGen server app using a PowerShell script. Refer to the included README.md or the [technical guide](https://docs.advantys.com/workflowgen-technical-reference-guide/setup/powershell-installation) for instructions.
 
 #### manual.zip
 
-Full installation of the WorkflowGen server app using a manual procedure. Refer to the [technical guide](https://advantys.gitbooks.io/workflowgen-technical-reference-guide/content/setup.html#workflowgen-setup-manual) for instructions.
+Full installation of the WorkflowGen server app using a manual procedure. Refer to the [technical guide](https://docs.advantys.com/workflowgen-technical-reference-guide/setup/manual-installation) for instructions.
 
 #### update.zip
 
-Upgrade pack for existing WorkflowGen server apps. Refer to the [upgrade guide](https://advantys.gitbooks.io/workflowgen-upgrade-guide/content/) for instructions.
+Upgrade pack for existing WorkflowGen server apps. Refer to the [upgrade guide](https://docs.advantys.com/workflowgen-upgrade-guide/) for instructions.
 
-### [Documentation](https://www.workflowgen.com/en/workflow-software-documentation/)
+### [Documentation](https://docs.advantys.com/workflowgen/)
 
 Check out the WorkflowGen documentation and become your company's process automation expert.
 
@@ -56,7 +56,7 @@ Join the community to learn about and share your experiences with WorkflowGen.
 
 ### Docker
 
-WorkflowGen is also available in Docker. See our container image at [advantys/workflowgen-express](https://hub.docker.com/r/advantys/workflowgen-express/)
+WorkflowGen is also available in Docker. See our container image at [advantys/workflowgen](https://hub.docker.com/r/advantys/workflowgen)
 
 ### Licenses
 
