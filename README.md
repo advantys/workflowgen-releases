@@ -20,7 +20,7 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - GraphQL and Incoming Webhooks Node.js-based API
 - .NET SOAP Web Services API
 - Microsoft Azure integration
-- OpenID Connect authentication with Azure AD, AD FS 2016, Auth0, Okta and Microsoft identity platform (v2.0)
+- OpenID Connect authentication with Azure AD, AD FS 2016, Auth0, Okta, Gardian and Microsoft identity platform (v2.0)
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - MS SQL Server 2012 or later
 - IIS Web Server feature
 - .NET Framework 4.8.0
-- [Node.js v18.18.2](https://nodejs.org/en/blog/release/v18.18.2/)
+- [Node.js v18.20.3](https://nodejs.org/en/blog/release/v18.20.3/)
 
 ### Packages
 
