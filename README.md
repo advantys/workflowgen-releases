@@ -21,6 +21,7 @@ WorkflowGen is a workflow design and automation solution that lets you quickly i
 - .NET SOAP Web Services API
 - Microsoft Azure integration
 - OpenID Connect authentication with Azure AD, AD FS 2016, Auth0, Okta, Gardian and Microsoft identity platform (v2.0)
+- SAML v2.0 authentication with Azure AD, Auth0, Okta and PingFederate
 
 ## Getting Started
 
